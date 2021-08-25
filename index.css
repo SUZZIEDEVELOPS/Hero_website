@@ -1,0 +1,41 @@
+body{
+	background-color: #lightblue;
+	text-align: center;
+}
+
+#title{
+	color: #003366;
+}
+.subtitle{
+    color: blue;
+    font-size: 30px;
+}
+#enter-hero-input{
+	width: 60%;
+	height: 40px;
+	border-radius: 10px;
+	border: 1px solid whitesmoke;
+	margin-bottom: 20px;
+	margin-right: 20;
+}
+#submit-button{
+      background-color: blue;
+      color: white;
+      border: 1px solid blue;
+      border-radius: 10px;
+      height: 40px;
+      width: 100px;
+}
+#power-stat-table{
+	width: 60%;
+	font-size: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 2px solid blue;
+}
+th,td{
+	border: 2px solid blue;
+}
+#image{
+	border-color: darkred;
+}
